@@ -19,7 +19,8 @@ Collectibles: Milk & Cookies (replenish health/lives), candycanes
 Obstacles: Birds
 
 
-##Roadmap
+## Roadmap
+
 1. Add chimney art
 2. Have end to game: santa can die from hitting stuff - he has x lives
 3. Add something that does damage
