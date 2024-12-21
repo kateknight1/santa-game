@@ -21,7 +21,7 @@ Obstacles: Birds
 
 ## Roadmap
 
-1. Add chimney art
+1. Add chimney art -done
 2. Have end to game: santa can die from hitting stuff - he has x lives
 3. Add something that does damage
 4. Add Health
