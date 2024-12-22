@@ -22,10 +22,10 @@ Obstacles: Birds
 ## Roadmap
 
 1. Add chimney art -done
-2. Have end to game: santa can die from hitting stuff - he has x lives
+2. Have end to game: santa can die from hitting stuff - he has x lives - done
 3. Add something that does damage - done
 4. Add Health - done
-5. Add end game screen showing score & restart. 
+5. Add end game screen showing score & restart. - done
 6. Score = presents scored and distance travelled, so wehen game ends you see your high score - done
 7. Add reindeer?
 8. Save data - High score, datetime, (3 digit) name?, always sorted in order of highest score 
